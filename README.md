@@ -10,3 +10,7 @@ Experience and notes
 
 ## GIT
 ### basic commands
+|Command|Descriprion|
+|:-----------------------------:|:-----------------------------------:|
+|||
+|||
