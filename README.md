@@ -5,4 +5,4 @@ Experience and notes
 ### basic commands
 |Command|Descriprion|
 |:-----------------------------:|:-----------------------------------:|
-|Install requrments.txt|pip install -r pathToRequirments\requirements.txt|
+|Install requrments.txt|python -m pip install -r pathToFile\requirements.txt|
