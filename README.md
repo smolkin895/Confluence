@@ -1,7 +1,7 @@
 # Confluence
 Experience and notes
 # Python notes
-## REQUIRMENTS.TXT
+## REQUIREMENTS.TXT
 ### Basic commands
 |Command|Descriprion|
 |:-----------------------------:|-----------------------------------|
@@ -15,7 +15,7 @@ Experience and notes
 ||``|
 ||``|
 
-# Docker File
+# DOCKER FILE
 ## Basic commands
 |Command|Descriprion|
 |:-----------------------------:|-----------------------------------|
