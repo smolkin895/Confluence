@@ -19,8 +19,8 @@ Experience and notes
 ## Basic commands
 |Command|Descriprion|
 |:-----------------------------:|-----------------------------------|
-|Run/Build image|`docker build . -f recommendations/Dockerfile -t recommendations`|
-||``|
+|Build image|`docker build . -f recommendations/Dockerfile -t recommendations`|
+|Run image|`docker run -p 127.0.0.1:50051:50051/tcp recommendations`|
 
 ## Docker file example
 ```
