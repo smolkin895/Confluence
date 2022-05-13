@@ -23,7 +23,7 @@ Experience and notes
 |Run image|`docker run -p 127.0.0.1:50051:50051/tcp recommendations`|
 |Запущенные контейнеры|`docker ps`|
 |Остановить контейнер|`docker stop container_name`|
-|Выполнить команду снаружи докера|docker exec 0bbadcac5fc5 cat /etc/nginx/conf.d/default.conf|
+|Выполнить команду снаружи докер контейнера|`docker exec <Enter container ID> cat /etc/nginx/conf.d/default.conf`|
 
 ### Docker file example
 ```
