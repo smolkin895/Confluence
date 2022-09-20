@@ -12,8 +12,8 @@ Experience and notes
 ### Basic commands
 |Command|Descriprion|
 |:-----------------------------:|-----------------------------------|
-||``|
-||``|
+|Sync forked repo with Original repo|`git remote add upstream https://github.com/[Original Owner Username]/[Original Repository].git`|
+|List the currently configured remote repositories|`git remote -v`|
 
 ## DOCKER
 ### Basic commands
